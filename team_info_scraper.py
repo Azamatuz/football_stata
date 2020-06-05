@@ -57,8 +57,8 @@ def foot_stat_scraper(file_name):
 
     team_info = pd.concat([pl_name_series, pl_num_series, pl_birth_series, pl_age_series, pl_price_series], axis=1)
     team_info.columns = ['Name', 'Number', 'Birth Date', 'Age', 'Price']
-    team_info['Age'] = team_info['Age'].astype(int)
-    team_info['Price'] = team_info['Price'].astype(int)
+    team_info['Age'] = team_info['Age'].astype('int32')
+    team_info['Price'] = team_info['Price'].astype('int32')/1000000
     return team_info
 
 teams_list = ['Juve.html', 'inter.html']

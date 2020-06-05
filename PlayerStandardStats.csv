@@ -1,0 +1,208 @@
+,,,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Expected,Expected,Expected,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,Gls,Ast,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,xG,xA,xG+xA,npxG▼,npxG+xA,Matches
+1,Arkadiusz Milik\Arkadiusz-Milik,pl POL,FW,Napoli,25,1994,16,14,1232,9,0,0,0,4,0,0.66,0.00,0.66,0.66,0.66,8.7,8.7,1.7,0.64,0.12,0.76,0.64,0.76,Matches
+2,Edin Džeko\Edin-Dzeko,ba BIH,FW,Roma,33,1986,25,23,2123,12,4,0,0,4,0,0.51,0.17,0.68,0.51,0.68,14.2,14.2,3.2,0.60,0.14,0.74,0.60,0.74,Matches
+3,Josip Iličić\Josip-Ilicic,si SVN,FW,Atalanta,31,1988,21,19,1482,15,5,0,0,1,1,0.91,0.30,1.21,0.91,1.21,9.1,9.1,6.8,0.55,0.41,0.96,0.55,0.96,Matches
+4,Lautaro Martínez\Lautaro-Martinez,ar ARG,FW,Inter,21,1997,22,20,1663,11,1,2,2,6,1,0.60,0.05,0.65,0.49,0.54,11.3,9.8,1.7,0.61,0.09,0.70,0.53,0.62,Matches
+5,Cristiano Ronaldo\Cristiano-Ronaldo,pt POR,FW,Juventus,34,1985,22,22,1944,21,3,7,7,2,0,0.97,0.14,1.11,0.65,0.79,16.1,10.8,3.2,0.75,0.15,0.89,0.50,0.65,Matches
+6,Joaquín Correa\Joaquin-Correa,ar ARG,FWMF,Lazio,24,1994,22,17,1567,7,1,0,0,0,0,0.40,0.06,0.46,0.40,0.46,8.5,8.5,2.0,0.49,0.12,0.61,0.49,0.61,Matches
+7,Mario Balotelli\Mario-Balotelli,it ITA,FW,Brescia,28,1990,19,16,1404,5,0,0,0,6,1,0.32,0.00,0.32,0.32,0.32,7.1,7.1,0.5,0.46,0.03,0.49,0.46,0.49,Matches
+8,Romelu Lukaku\Romelu-Lukaku,be BEL,FW,Inter,26,1993,25,24,2138,17,2,4,4,2,0,0.72,0.08,0.80,0.55,0.63,13.8,10.7,3.7,0.58,0.15,0.73,0.45,0.61,Matches
+9,Gonzalo Higuaín\Gonzalo-Higuain,ar ARG,FW,Juventus,31,1987,23,16,1462,5,4,0,0,2,0,0.31,0.25,0.55,0.31,0.55,7.2,7.2,3.8,0.44,0.24,0.68,0.44,0.68,Matches
+10,Francesco Caputo\Francesco-Caputo,it ITA,FW,Sassuolo,31,1987,23,22,1921,13,4,1,1,2,0,0.61,0.19,0.80,0.56,0.75,10.0,9.3,2.6,0.47,0.12,0.59,0.43,0.56,Matches
+11,Ciro Immobile\Ciro-Immobile,it ITA,FW,Lazio,29,1990,26,25,2181,27,7,10,11,4,0,1.11,0.29,1.40,0.70,0.99,18.8,10.2,5.2,0.77,0.22,0.99,0.42,0.64,Matches
+12,Mario Pašalić\Mario-Pasalic,hr CRO,MF,Atalanta,24,1995,23,20,1668,5,5,0,0,4,0,0.27,0.27,0.54,0.27,0.54,7.3,7.2,2.1,0.39,0.11,0.51,0.39,0.50,Matches
+13,Gianluca Lapadula\Gianluca-Lapadula,it ITA,FW,Lecce,29,1990,19,15,1373,7,0,2,2,7,1,0.46,0.00,0.46,0.33,0.33,7.5,5.9,0.9,0.49,0.06,0.55,0.39,0.45,Matches
+14,Paulo Dybala\Paulo-Dybala,ar ARG,FWMF,Juventus,25,1993,24,17,1521,7,4,1,1,4,0,0.41,0.24,0.65,0.36,0.59,7.1,6.4,4.1,0.42,0.24,0.66,0.38,0.62,Matches
+15,Gervinho\Gervinho,ci CIV,FW,Parma,32,1987,19,18,1482,5,3,0,1,3,0,0.30,0.18,0.49,0.30,0.49,7.0,6.2,1.7,0.42,0.11,0.53,0.38,0.48,Matches
+16,Papu Gómez\Papu-Gomez,ar ARG,MFFW,Atalanta,31,1988,24,23,1894,6,10,0,0,2,0,0.29,0.48,0.76,0.29,0.76,7.3,7.3,6.2,0.35,0.30,0.64,0.35,0.64,Matches
+17,Giovanni Simeone\Giovanni-Simeone,ar ARG,FW,Cagliari,24,1995,24,22,1836,6,3,0,0,4,0,0.29,0.15,0.44,0.29,0.44,7.2,7.2,1.8,0.35,0.09,0.44,0.35,0.44,Matches
+18,Rodrigo Palacio\Rodrigo-Palacio,ar ARG,FW,Bologna,37,1982,25,21,1912,6,3,0,0,3,0,0.28,0.14,0.42,0.28,0.42,7.0,7.0,4.2,0.33,0.20,0.53,0.33,0.53,Matches
+19,Kevin Lasagna\Kevin-Lasagna,it ITA,FW,Udinese,26,1992,25,19,1750,4,0,0,0,1,0,0.21,0.00,0.21,0.21,0.21,6.4,6.4,0.9,0.33,0.05,0.38,0.33,0.38,Matches
+20,Lorenzo Insigne\Lorenzo-Insigne,it ITA,FWMF,Napoli,28,1991,25,23,1882,5,5,3,3,1,0,0.24,0.24,0.48,0.10,0.33,8.9,6.6,4.5,0.43,0.22,0.64,0.32,0.53,Matches
+21,Fabio Quagliarella\Fabio-Quagliarella,it ITA,FW,Sampdoria,36,1983,21,21,1808,9,2,5,6,2,0,0.45,0.10,0.55,0.20,0.30,11.0,6.4,2.4,0.55,0.12,0.66,0.32,0.44,Matches
+22,Manolo Gabbiadini\Manolo-Gabbiadini,it ITA,FW,Sampdoria,27,1991,21,17,1415,6,1,1,1,2,0,0.38,0.06,0.45,0.32,0.38,5.7,4.9,1.5,0.36,0.10,0.46,0.31,0.41,Matches
+23,Federico Chiesa\Federico-Chiesa,it ITA,FW,Fiorentina,21,1997,23,23,1936,7,3,1,2,4,0,0.33,0.14,0.46,0.28,0.42,8.1,6.6,2.8,0.38,0.13,0.50,0.30,0.43,Matches
+24,Stefano Okaka\Stefano-Okaka,it ITA,FW,Udinese,29,1989,22,20,1730,5,2,0,0,8,0,0.26,0.10,0.36,0.26,0.36,5.8,5.8,1.6,0.30,0.08,0.38,0.30,0.38,Matches
+25,Krzysztof Piątek\Krzysztof-Piatek,pl POL,FW,Milan,24,1995,18,14,1183,4,0,3,3,1,0,0.30,0.00,0.30,0.08,0.08,6.2,3.9,0.9,0.47,0.07,0.54,0.30,0.37,Matches
+26,Riccardo Orsolini\Riccardo-Orsolini,it ITA,FWMF,Bologna,22,1997,26,24,1972,7,4,0,0,3,0,0.32,0.18,0.50,0.32,0.50,6.4,6.4,5.3,0.29,0.24,0.54,0.29,0.54,Matches
+27,Andrea Belotti\Andrea-Belotti,it ITA,FW,Torino,25,1993,23,22,1915,9,2,5,5,3,0,0.42,0.09,0.52,0.19,0.28,9.8,6.2,2.9,0.46,0.13,0.59,0.29,0.42,Matches
+28,Domenico Berardi\Domenico-Berardi,it ITA,FW,Sassuolo,24,1994,20,19,1606,9,5,0,1,4,1,0.50,0.28,0.78,0.50,0.78,6.0,5.2,3.8,0.34,0.21,0.55,0.29,0.51,Matches
+29,Dries Mertens\Dries-Mertens,be BEL,FW,Napoli,32,1987,21,12,1221,6,4,0,0,4,0,0.44,0.29,0.74,0.44,0.74,4.0,4.0,4.4,0.29,0.32,0.62,0.29,0.62,Matches
+30,João Pedro\Joao-Pedro,br BRA,FWMF,Cagliari,27,1992,25,25,2249,16,2,3,5,5,0,0.64,0.08,0.72,0.52,0.60,10.6,6.7,1.2,0.42,0.05,0.47,0.27,0.32,Matches
+31,Nicola Sansone\Nicola-Sansone,it ITA,FWMF,Bologna,27,1991,22,20,1671,4,3,3,4,5,0,0.22,0.16,0.38,0.05,0.22,7.8,4.8,2.9,0.42,0.16,0.58,0.26,0.41,Matches
+32,Andrea Petagna\Andrea-Petagna,it ITA,FW,SPAL,24,1995,25,24,2178,11,1,5,7,5,0,0.45,0.04,0.50,0.25,0.29,11.1,5.8,2.3,0.46,0.10,0.56,0.24,0.34,Matches
+33,Robin Gosens\Robin-Gosens,de GER,DF,Atalanta,25,1994,22,21,1760,7,5,0,0,2,0,0.36,0.26,0.61,0.36,0.61,4.5,4.5,2.4,0.23,0.12,0.35,0.23,0.35,Matches
+34,Andrea Pinamonti\Andrea-Pinamonti,it ITA,FW,Genoa,20,1999,20,15,1402,2,1,0,0,1,0,0.13,0.06,0.19,0.13,0.19,3.6,3.6,0.6,0.23,0.04,0.27,0.23,0.27,Matches
+35,Nicolò Zaniolo\Nicolo-Zaniolo,it ITA,FWMF,Roma,20,1999,18,15,1289,4,1,0,0,6,0,0.28,0.07,0.35,0.28,0.35,3.2,3.2,2.4,0.23,0.17,0.40,0.23,0.40,Matches
+36,Marco Mancosu\Marco-Mancosu,it ITA,MFFW,Lecce,30,1988,21,17,1512,8,1,5,5,2,0,0.48,0.06,0.54,0.18,0.24,7.4,3.6,1.9,0.44,0.11,0.55,0.21,0.33,Matches
+37,Jeremie Boga\Jeremie-Boga,ci CIV,FW,Sassuolo,22,1997,24,21,1869,8,2,0,0,0,0,0.39,0.10,0.48,0.39,0.48,4.1,4.1,2.3,0.20,0.11,0.31,0.20,0.31,Matches
+38,Roberto Soriano\Roberto-Soriano,it ITA,MF,Bologna,28,1991,18,18,1589,3,2,0,0,2,1,0.17,0.11,0.28,0.17,0.28,3.4,3.4,3.2,0.20,0.18,0.37,0.20,0.37,Matches
+39,Matías Vecino\Matias-Vecino,uy URU,MF,Inter,27,1991,18,14,1258,2,2,0,0,4,0,0.14,0.14,0.29,0.14,0.29,2.8,2.8,1.3,0.20,0.09,0.30,0.20,0.30,Matches
+40,Mattia Valoti\Mattia-Valoti,it ITA,MFFW,SPAL,25,1993,21,14,1247,2,0,0,0,6,0,0.14,0.00,0.14,0.14,0.14,2.7,2.7,0.9,0.20,0.06,0.26,0.20,0.26,Matches
+41,Luis Alberto\Luis-Alberto,es ESP,MF,Lazio,26,1992,25,25,2147,4,12,1,1,4,0,0.17,0.50,0.67,0.13,0.63,5.2,4.4,7.6,0.22,0.32,0.54,0.19,0.51,Matches
+42,Hakan Çalhanoğlu\Hakan-Calhanoglu,tr TUR,MFFW,Milan,25,1994,23,23,1890,3,1,0,0,6,0,0.14,0.05,0.19,0.14,0.19,4.0,4.0,3.2,0.19,0.15,0.34,0.19,0.34,Matches
+43,Mattia Zaccagni\Mattia-Zaccagni,it ITA,FWMF,Hellas Verona,24,1995,23,20,1560,1,4,0,0,5,0,0.06,0.23,0.29,0.06,0.29,3.4,3.4,2.5,0.19,0.14,0.34,0.19,0.34,Matches
+44,Lorenzo Pellegrini\Lorenzo-Pellegrini,it ITA,MF,Roma,23,1996,18,18,1502,1,8,0,0,6,1,0.06,0.48,0.54,0.06,0.54,3.2,3.2,5.8,0.19,0.35,0.54,0.19,0.54,Matches
+45,Justin Kluivert\Justin-Kluivert,nl NED,FW,Roma,20,1999,18,17,1361,4,1,0,0,6,1,0.26,0.07,0.33,0.26,0.33,2.8,2.8,1.2,0.19,0.08,0.27,0.19,0.27,Matches
+46,Juraj Kucka\Juraj-Kucka,sk SVK,MFFW,Parma,32,1987,18,15,1350,3,2,0,0,2,0,0.20,0.13,0.33,0.20,0.33,2.8,2.8,1.7,0.19,0.11,0.30,0.19,0.30,Matches
+47,Sergej Milinković-Savić\Sergej-Milinkovic-Savic,rs SRB,MF,Lazio,24,1995,25,24,2045,4,4,0,0,6,0,0.18,0.18,0.35,0.18,0.35,4.1,4.1,3.0,0.18,0.13,0.31,0.18,0.31,Matches
+48,Rolando Mandragora\Rolando-Mandragora,it ITA,MF,Udinese,22,1997,25,23,1997,0,2,0,0,2,0,0.00,0.09,0.09,0.00,0.09,4.0,4.0,2.9,0.18,0.13,0.31,0.18,0.31,Matches
+49,Dejan Kulusekvski\Dejan-Kulusekvski,se SWE,FWMF,Parma,19,2000,23,22,1902,5,7,0,0,2,0,0.24,0.33,0.57,0.24,0.57,3.5,3.5,5.5,0.17,0.26,0.42,0.17,0.42,Matches
+50,Valerio Verre\Valerio-Verre,it ITA,FWMF,Hellas Verona,25,1994,23,17,1360,3,0,2,2,4,0,0.20,0.00,0.20,0.07,0.07,4.2,2.6,2.4,0.28,0.16,0.43,0.17,0.33,Matches
+51,José Callejón\Jose-Callejon,es ESP,MFFW,Napoli,32,1987,23,19,1650,2,6,0,0,2,0,0.11,0.33,0.44,0.11,0.44,2.9,2.9,5.5,0.16,0.30,0.46,0.16,0.46,Matches
+52,Simone Verdi\Simone-Verdi,it ITA,MFFW,Torino,27,1992,22,17,1313,1,3,0,0,2,0,0.07,0.21,0.27,0.07,0.27,2.3,2.3,1.6,0.16,0.11,0.27,0.16,0.27,Matches
+53,Matteo Pessina\Matteo-Pessina,it ITA,MFFW,Hellas Verona,22,1997,24,18,1717,3,0,0,0,4,0,0.16,0.00,0.16,0.16,0.16,2.8,2.8,1.0,0.15,0.05,0.20,0.15,0.20,Matches
+54,Aleksandar Kolarov\Aleksandar-Kolarov,rs SRB,DF,Roma,33,1985,23,22,1988,6,3,2,4,6,0,0.27,0.14,0.41,0.18,0.32,6.0,3.0,3.7,0.27,0.17,0.44,0.14,0.31,Matches
+55,Mattia Bani\Mattia-Bani,it ITA,DF,Bologna,25,1993,22,22,1868,4,0,0,0,13,1,0.19,0.00,0.19,0.19,0.19,2.9,2.9,0.1,0.14,0.00,0.14,0.14,0.14,Matches
+56,Rodrigo De Paul\Rodrigo-De-Paul,ar ARG,MF,Udinese,25,1994,23,22,1832,5,2,0,0,4,1,0.25,0.10,0.34,0.25,0.34,2.8,2.8,4.9,0.14,0.24,0.38,0.14,0.38,Matches
+57,Davide Faraoni\Davide-Faraoni,it ITA,DF,Hellas Verona,27,1991,24,24,2160,3,3,0,0,4,0,0.12,0.12,0.25,0.12,0.25,3.1,3.1,2.0,0.13,0.08,0.21,0.13,0.21,Matches
+58,Filippo Falco\Filippo-Falco,it ITA,FWMF,Lecce,27,1992,19,15,1365,3,3,0,0,0,0,0.20,0.20,0.40,0.20,0.40,2.0,2.0,2.9,0.13,0.19,0.33,0.13,0.33,Matches
+59,Jasmin Kurtić\Jasmin-Kurtic,si SVN,MF,SPAL,30,1989,16,16,1409,2,0,0,0,5,0,0.13,0.00,0.13,0.13,0.13,2.0,2.0,2.1,0.13,0.13,0.26,0.13,0.26,Matches
+60,Marcelo Brozović\Marcelo-Brozovic,hr CRO,MF,Inter,26,1992,23,22,1990,3,5,0,0,6,0,0.14,0.23,0.36,0.14,0.36,2.6,2.6,2.1,0.12,0.10,0.21,0.12,0.21,Matches
+61,Radja Nainggolan\Radja-Nainggolan,be BEL,MFFW,Cagliari,31,1988,21,20,1738,5,6,0,0,5,0,0.26,0.31,0.57,0.26,0.57,2.3,2.3,5.1,0.12,0.26,0.39,0.12,0.39,Matches
+62,Jakub Jankto\Jakub-Jankto,cz CZE,MF,Sampdoria,23,1996,19,15,1278,2,2,0,0,4,0,0.14,0.14,0.28,0.14,0.28,1.8,1.8,2.6,0.12,0.19,0.31,0.12,0.31,Matches
+63,Piotr Zieliński\Piotr-Zielinski,pl POL,MF,Napoli,25,1994,26,23,2154,2,3,0,0,4,0,0.08,0.13,0.21,0.08,0.21,2.7,2.7,2.0,0.11,0.08,0.20,0.11,0.20,Matches
+64,Dimitri Bisoli\Dimitri-Bisoli,it ITA,MF,Brescia,25,1994,25,24,2152,1,1,0,0,6,0,0.04,0.04,0.08,0.04,0.08,2.6,2.6,2.9,0.11,0.12,0.23,0.11,0.23,Matches
+65,Rômulo\Romulo,it ITA,MF,Brescia,32,1987,20,19,1679,1,3,0,0,3,0,0.05,0.16,0.21,0.05,0.21,2.1,2.1,1.2,0.11,0.07,0.18,0.11,0.18,Matches
+66,Andrea Poli\Andrea-Poli,it ITA,MF,Bologna,29,1989,23,20,1719,2,0,0,0,5,0,0.10,0.00,0.10,0.10,0.10,2.0,2.0,1.5,0.11,0.08,0.18,0.11,0.18,Matches
+67,Espeto\Espeto,br BRA,DF,SPAL,22,1997,20,16,1401,1,2,0,0,7,1,0.06,0.13,0.19,0.06,0.19,1.8,1.8,1.0,0.11,0.06,0.18,0.11,0.18,Matches
+68,Lorenzo De Silvestri\Lorenzo-De-Silvestri,it ITA,DF,Torino,31,1988,19,18,1543,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,1.8,1.8,0.8,0.11,0.05,0.15,0.11,0.15,Matches
+69,Arkadiusz Reca\Arkadiusz-Reca,pl POL,DF,SPAL,24,1995,18,18,1505,0,1,0,0,1,0,0.00,0.06,0.06,0.00,0.06,1.8,1.8,1.5,0.11,0.09,0.20,0.11,0.20,Matches
+70,Seko Fofana\Seko-Fofana,ci CIV,MF,Udinese,24,1995,21,16,1458,1,4,0,0,2,0,0.06,0.25,0.31,0.06,0.31,1.7,1.7,2.4,0.11,0.15,0.26,0.11,0.26,Matches
+71,Theo Hernández\Theo-Hernandez,fr FRA,DF,Milan,21,1997,22,21,1909,5,2,0,0,8,0,0.24,0.09,0.33,0.24,0.33,2.1,2.1,3.0,0.10,0.14,0.24,0.10,0.24,Matches
+72,Jhon Chancellor\Jhon-Chancellor,ve VEN,DF,Brescia,27,1992,23,23,2019,3,0,0,0,3,0,0.13,0.00,0.13,0.13,0.13,2.1,2.1,0.0,0.10,0.00,0.10,0.10,0.10,Matches
+73,José Luis Palomino\Jose-Luis-Palomino,ar ARG,DF,Atalanta,29,1990,21,21,1890,1,1,0,0,4,0,0.05,0.05,0.10,0.05,0.10,2.0,2.0,1.2,0.10,0.06,0.15,0.10,0.15,Matches
+74,Rafael Tolói\Rafael-Toloi,br BRA,DF,Atalanta,28,1990,22,20,1832,1,5,0,0,5,0,0.05,0.25,0.29,0.05,0.29,1.9,1.9,1.8,0.10,0.09,0.18,0.10,0.18,Matches
+75,Matthijs de Ligt\Matthijs-de-Ligt,nl NED,DF,Juventus,19,1999,20,17,1653,2,0,0,0,4,0,0.11,0.00,0.11,0.11,0.11,1.8,1.8,0.1,0.10,0.00,0.10,0.10,0.10,Matches
+76,Marko Rog\Marko-Rog,hr CRO,MF,Cagliari,24,1995,19,17,1425,1,0,0,0,6,0,0.06,0.00,0.06,0.06,0.06,1.6,1.6,1.0,0.10,0.06,0.16,0.10,0.16,Matches
+77,Cristian Ansaldi\Cristian-Ansaldi,ar ARG,DFMF,Torino,32,1986,16,14,1173,4,3,0,0,7,0,0.31,0.23,0.54,0.31,0.54,1.3,1.3,1.9,0.10,0.14,0.24,0.10,0.24,Matches
+78,Alessandro Murgia\Alessandro-Murgia,it ITA,MF,SPAL,22,1996,17,12,1170,0,1,0,0,2,0,0.00,0.08,0.08,0.00,0.08,1.3,1.3,1.6,0.10,0.12,0.23,0.10,0.23,Matches
+79,Amir Rrahmani\Amir-Rrahmani,xk KVX,DF,Hellas Verona,25,1994,25,25,2238,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,2.3,2.3,0.5,0.09,0.02,0.11,0.09,0.11,Matches
+80,Leonardo Bonucci\Leonardo-Bonucci,it ITA,DF,Juventus,32,1987,25,25,2222,3,0,0,0,5,0,0.12,0.00,0.12,0.12,0.12,2.2,2.2,0.4,0.09,0.02,0.11,0.09,0.11,Matches
+81,Giovanni Di Lorenzo\Giovanni-Di-Lorenzo,it ITA,DF,Napoli,25,1993,25,25,2250,2,3,0,0,3,0,0.08,0.12,0.20,0.08,0.20,2.2,2.2,2.2,0.09,0.09,0.18,0.09,0.18,Matches
+82,Nikola Milenković\Nikola-Milenkovic,rs SRB,DF,Fiorentina,21,1997,25,25,2250,3,0,0,0,5,0,0.12,0.00,0.12,0.12,0.12,2.1,2.1,0.1,0.09,0.00,0.09,0.09,0.09,Matches
+83,Gaetano Castrovilli\Gaetano-Castrovilli,it ITA,MF,Fiorentina,22,1997,24,24,2012,3,2,0,0,8,0,0.13,0.09,0.22,0.13,0.22,2.0,2.0,2.2,0.09,0.10,0.19,0.09,0.19,Matches
+84,Germán Pezzella\German-Pezzella,ar ARG,DF,Fiorentina,28,1991,23,23,1975,2,0,0,0,9,0,0.09,0.00,0.09,0.09,0.09,1.9,1.9,0.3,0.09,0.02,0.10,0.09,0.10,Matches
+85,Fabián Ruiz Peña\Fabian-Ruiz-Pena,es ESP,MF,Napoli,23,1996,22,21,1899,2,2,0,0,2,0,0.09,0.09,0.19,0.09,0.19,1.9,1.9,2.1,0.09,0.10,0.19,0.09,0.19,Matches
+86,Martín Cáceres\Martin-Caceres,uy URU,DF,Fiorentina,32,1987,20,20,1747,1,0,0,0,6,0,0.05,0.00,0.05,0.05,0.05,1.8,1.8,0.4,0.09,0.02,0.11,0.09,0.11,Matches
+87,Miguel Veloso\Miguel-Veloso,pt POR,MF,Hellas Verona,33,1986,21,20,1721,2,3,0,0,5,0,0.10,0.16,0.26,0.10,0.26,1.7,1.7,3.7,0.09,0.19,0.28,0.09,0.28,Matches
+88,Marten de Roon\Marten-de-Roon,nl NED,MFDF,Atalanta,28,1991,22,19,1738,1,4,0,0,10,0,0.05,0.21,0.26,0.05,0.26,1.7,1.7,1.8,0.09,0.09,0.18,0.09,0.18,Matches
+89,Remo Freuler\Remo-Freuler,ch SUI,MF,Atalanta,27,1992,20,17,1449,2,2,0,0,2,0,0.12,0.12,0.25,0.12,0.25,1.5,1.5,2.2,0.09,0.14,0.23,0.09,0.23,Matches
+90,Marash Kumbulla\Marash-Kumbulla,al ALB,DF,Hellas Verona,19,2000,18,18,1456,1,0,0,0,6,1,0.06,0.00,0.06,0.06,0.06,1.5,1.5,0.0,0.09,0.00,0.09,0.09,0.09,Matches
+91,Milan Badelj\Milan-Badelj,hr CRO,MF,Fiorentina,30,1989,19,17,1369,1,0,0,0,3,1,0.07,0.00,0.07,0.07,0.07,1.3,1.3,0.8,0.09,0.05,0.14,0.09,0.14,Matches
+92,Suso\Suso,es ESP,FWMF,Milan,25,1993,16,15,1359,1,2,0,0,2,0,0.07,0.13,0.20,0.07,0.20,1.3,1.3,3.6,0.09,0.24,0.32,0.09,0.32,Matches
+93,Antonino Barillà\Antonino-Barilla,it ITA,MF,Parma,31,1988,18,15,1239,1,0,0,0,5,0,0.07,0.00,0.07,0.07,0.07,1.3,1.3,0.8,0.09,0.06,0.15,0.09,0.15,Matches
+94,Chris Smalling\Chris-Smalling,eng ENG,DF,Roma,29,1989,21,21,1890,2,1,0,0,1,0,0.10,0.05,0.14,0.10,0.14,1.7,1.7,0.8,0.08,0.04,0.12,0.08,0.12,Matches
+95,Pedro Obiang\Pedro-Obiang,gq EQG,MF,Sassuolo,27,1992,21,17,1543,1,1,0,0,9,0,0.06,0.06,0.12,0.06,0.12,1.4,1.4,0.6,0.08,0.03,0.11,0.08,0.11,Matches
+96,Manuel Locatelli\Manuel-Locatelli,it ITA,MF,Sassuolo,21,1998,20,19,1576,0,4,0,0,8,0,0.00,0.23,0.23,0.00,0.23,1.4,1.4,3.1,0.08,0.18,0.26,0.08,0.26,Matches
+97,Ronaldo Vieira\Ronaldo-Vieira,gw GNB,MF,Sampdoria,21,1998,21,17,1502,0,1,0,0,8,1,0.00,0.06,0.06,0.00,0.06,1.3,1.3,1.0,0.08,0.06,0.14,0.08,0.14,Matches
+98,Nicolò Barella\Nicolo-Barella,it ITA,MF,Inter,22,1997,20,16,1416,1,3,0,0,8,0,0.06,0.19,0.25,0.06,0.25,1.2,1.2,1.2,0.08,0.07,0.15,0.08,0.15,Matches
+99,Darko Lazović\Darko-Lazovic,rs SRB,DF,Hellas Verona,28,1990,25,25,2197,1,4,0,0,4,0,0.04,0.16,0.20,0.04,0.20,1.7,1.7,5.5,0.07,0.23,0.30,0.07,0.29,Matches
+100,Franck Kessié\Franck-Kessie,ci CIV,MF,Milan,22,1996,23,21,1845,1,1,1,1,3,0,0.05,0.05,0.10,0.00,0.05,2.3,1.5,1.6,0.11,0.08,0.19,0.07,0.15,Matches
+101,Francesco Acerbi\Francesco-Acerbi,it ITA,DF,Lazio,31,1988,24,24,2114,2,2,0,0,4,0,0.09,0.09,0.17,0.09,0.17,1.5,1.5,1.2,0.07,0.05,0.12,0.07,0.12,Matches
+102,Gianluca Mancini\Gianluca-Mancini,it ITA,DFMF,Roma,23,1996,23,22,1976,1,0,0,0,12,1,0.05,0.00,0.05,0.05,0.05,1.5,1.5,0.6,0.07,0.03,0.10,0.07,0.10,Matches
+103,Albin Ekdal\Albin-Ekdal,se SWE,MF,Sampdoria,30,1989,23,18,1657,0,1,0,0,5,0,0.00,0.05,0.05,0.00,0.05,1.4,1.4,0.9,0.07,0.05,0.12,0.07,0.12,Matches
+104,Kostas Manolas\Kostas-Manolas,gr GRE,DF,Napoli,28,1991,19,19,1684,3,0,0,0,2,0,0.16,0.00,0.16,0.16,0.16,1.3,1.3,0.1,0.07,0.00,0.07,0.07,0.07,Matches
+105,Hans Hateboer\Hans-Hateboer,nl NED,DF,Atalanta,25,1994,21,17,1590,0,3,0,0,7,0,0.00,0.17,0.17,0.00,0.17,1.2,1.2,3.1,0.07,0.17,0.24,0.07,0.24,Matches
+106,Žan Majer\Zan-Majer,si SVN,MF,Lecce,27,1992,20,18,1410,1,1,0,0,6,0,0.06,0.06,0.13,0.06,0.13,1.1,1.1,1.3,0.07,0.08,0.15,0.07,0.15,Matches
+107,Karol Linetty\Karol-Linetty,pl POL,MF,Sampdoria,24,1995,17,12,1179,2,3,0,0,4,0,0.15,0.23,0.38,0.15,0.38,0.9,0.9,2.0,0.07,0.15,0.22,0.07,0.22,Matches
+108,Cristian Romero\Cristian-Romero,ar ARG,DF,Genoa,21,1998,21,21,1869,0,1,1,1,10,0,0.00,0.05,0.05,-0.05,0.00,2.0,1.2,0.4,0.10,0.02,0.11,0.06,0.08,Matches
+109,Berat Djimsiti\Berat-Djimsiti,al ALB,DF,Atalanta,26,1993,22,21,1869,1,1,0,0,2,0,0.05,0.05,0.10,0.05,0.10,1.2,1.2,0.2,0.06,0.01,0.07,0.06,0.07,Matches
+110,Juan Cuadrado\Juan-Cuadrado,co COL,DFFW,Juventus,31,1988,23,19,1842,1,2,0,0,4,1,0.05,0.10,0.15,0.05,0.15,1.2,1.2,3.3,0.06,0.16,0.22,0.06,0.22,Matches
+111,Lasse Schöne\Lasse-Schone,dk DEN,MF,Genoa,33,1986,22,21,1717,1,2,0,1,4,0,0.05,0.10,0.16,0.05,0.16,1.9,1.1,2.0,0.10,0.11,0.20,0.06,0.16,Matches
+112,Manuel Lazzari\Manuel-Lazzari,it ITA,DF,Lazio,25,1993,21,18,1665,0,3,0,0,4,0,0.00,0.16,0.16,0.00,0.16,1.1,1.1,2.7,0.06,0.15,0.21,0.06,0.21,Matches
+113,Senad Lulić\Senad-Lulic,ba BIH,DF,Lazio,33,1986,20,20,1573,0,2,0,0,6,0,0.00,0.11,0.11,0.00,0.11,1.1,1.1,2.2,0.06,0.13,0.19,0.06,0.19,Matches
+114,Blaise Matuidi\Blaise-Matuidi,fr FRA,MF,Juventus,32,1987,23,18,1617,0,2,0,0,2,0,0.00,0.11,0.11,0.00,0.11,1.0,1.0,1.1,0.06,0.06,0.11,0.06,0.11,Matches
+115,Paolo Ghiglione\Paolo-Ghiglione,it ITA,DF,Genoa,22,1997,20,19,1584,0,5,0,0,4,0,0.00,0.28,0.28,0.00,0.28,1.0,1.0,2.0,0.06,0.11,0.17,0.06,0.17,Matches
+116,Antonio Candreva\Antonio-Candreva,it ITA,DFMF,Inter,32,1987,20,16,1335,2,5,0,0,5,0,0.13,0.34,0.47,0.13,0.47,0.8,0.8,3.7,0.06,0.25,0.31,0.06,0.31,Matches
+117,Ivan Radovanović\Ivan-Radovanovic,rs SRB,MF,Genoa,30,1988,19,15,1318,0,1,0,0,3,0,0.00,0.07,0.07,0.00,0.07,0.8,0.8,0.6,0.06,0.04,0.10,0.06,0.10,Matches
+118,Saša Lukić\Sasa-Lukic,rs SRB,MF,Torino,22,1996,18,15,1294,0,1,0,0,4,1,0.00,0.07,0.07,0.00,0.07,0.8,0.8,0.4,0.06,0.03,0.09,0.06,0.09,Matches
+119,Marlon\Marlon,br BRA,DF,Sassuolo,23,1995,15,14,1194,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,0.8,0.8,0.6,0.06,0.05,0.11,0.06,0.11,Matches
+120,Alessio Romagnoli\Alessio-Romagnoli,it ITA,DF,Milan,24,1995,26,26,2340,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,1.3,1.3,0.5,0.05,0.02,0.07,0.05,0.07,Matches
+121,Erick Pulgar\Erick-Pulgar,cl CHI,MF,Fiorentina,25,1994,25,23,2086,4,3,4,4,7,0,0.17,0.13,0.30,0.00,0.13,4.2,1.2,4.9,0.18,0.21,0.39,0.05,0.26,Matches
+122,Stefan de Vrij\Stefan-de-Vrij,nl NED,DF,Inter,27,1992,23,22,2006,2,3,0,0,3,0,0.09,0.13,0.22,0.09,0.22,1.2,1.2,0.5,0.05,0.02,0.08,0.05,0.08,Matches
+123,Armando Izzo\Armando-Izzo,it ITA,DF,Torino,27,1992,23,23,2041,1,0,0,0,6,2,0.04,0.00,0.04,0.04,0.04,1.2,1.2,0.6,0.05,0.03,0.08,0.05,0.08,Matches
+124,Sofyan Amrabat\Sofyan-Amrabat,ma MAR,MF,Hellas Verona,22,1996,23,22,1947,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,1.2,1.2,1.2,0.05,0.05,0.11,0.05,0.11,Matches
+125,Omar Colley\Omar-Colley,gm GAM,DF,Sampdoria,26,1992,21,21,1890,0,1,0,0,9,0,0.00,0.05,0.05,0.00,0.05,1.2,1.2,0.5,0.05,0.02,0.08,0.05,0.08,Matches
+126,Riccardo Gagliolo\Riccardo-Gagliolo,se SWE,DF,Parma,29,1990,22,21,1780,2,1,0,0,7,0,0.10,0.05,0.15,0.10,0.15,1.1,1.1,1.5,0.05,0.08,0.13,0.05,0.13,Matches
+127,Hernani\Hernani,br BRA,MF,Parma,25,1994,23,21,1896,0,3,0,0,9,0,0.00,0.14,0.14,0.00,0.14,1.0,1.0,1.1,0.05,0.05,0.10,0.05,0.10,Matches
+128,Nicolas Nkoulou\Nicolas-Nkoulou,cm CMR,DF,Torino,29,1990,19,19,1687,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,0.9,0.9,0.0,0.05,0.00,0.05,0.05,0.05,Matches
+129,Andrea Rispoli\Andrea-Rispoli,it ITA,DF,Lecce,30,1988,20,15,1357,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,0.7,0.7,1.1,0.05,0.07,0.12,0.05,0.12,Matches
+130,Daniele Baselli\Daniele-Baselli,it ITA,MF,Torino,27,1992,16,16,1278,0,2,0,0,3,0,0.00,0.14,0.14,0.00,0.14,0.7,0.7,1.1,0.05,0.08,0.12,0.05,0.12,Matches
+131,Artur Ioniță\Artur-Ionita,md MDA,MF,Cagliari,28,1990,22,12,1175,0,1,0,0,3,0,0.00,0.08,0.08,0.00,0.08,0.7,0.7,0.4,0.05,0.03,0.08,0.05,0.08,Matches
+132,Kalidou Koulibaly\Kalidou-Koulibaly,sn SEN,DF,Napoli,28,1991,15,14,1216,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,0.6,0.6,0.5,0.05,0.04,0.09,0.05,0.09,Matches
+133,Simone Missiroli\Simone-Missiroli,it ITA,MF,SPAL,33,1986,25,24,2133,1,0,0,0,7,0,0.04,0.00,0.04,0.04,0.04,1.1,1.1,0.7,0.04,0.03,0.07,0.04,0.07,Matches
+134,Fabio Lucioni\Fabio-Lucioni,it ITA,DF,Lecce,31,1987,25,25,2202,1,0,0,0,6,0,0.04,0.00,0.04,0.04,0.04,1.0,1.0,0.1,0.04,0.00,0.04,0.04,0.04,Matches
+135,Simone Iacoponi\Simone-Iacoponi,it ITA,DF,Parma,32,1987,25,25,2240,2,0,0,0,3,0,0.08,0.00,0.08,0.08,0.08,0.9,0.9,0.1,0.04,0.00,0.04,0.04,0.04,Matches
+136,Miralem Pjanić\Miralem-Pjanic,ba BIH,MF,Juventus,29,1990,22,20,1735,3,2,0,0,7,0,0.16,0.10,0.26,0.16,0.26,0.8,0.8,1.7,0.04,0.09,0.13,0.04,0.13,Matches
+137,Jens Stryger Larsen\Jens-Stryger-Larsen,dk DEN,DF,Udinese,28,1991,22,22,1942,1,2,0,0,2,0,0.05,0.09,0.14,0.05,0.14,0.8,0.8,1.6,0.04,0.08,0.11,0.04,0.11,Matches
+138,Sandro Tonali\Sandro-Tonali,it ITA,MF,Brescia,19,2000,23,23,2038,1,5,0,0,6,0,0.04,0.22,0.26,0.04,0.26,0.8,0.8,3.8,0.04,0.17,0.21,0.04,0.21,Matches
+139,Pol Lirola\Pol-Lirola,es ESP,DF,Fiorentina,21,1997,23,22,1856,0,2,0,0,4,0,0.00,0.10,0.10,0.00,0.10,0.7,0.7,2.2,0.04,0.10,0.14,0.04,0.14,Matches
+140,Bruno Alves\Bruno-Alves,pt POR,DF,Parma,37,1981,21,20,1807,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.7,0.7,0.4,0.04,0.02,0.06,0.04,0.06,Matches
+141,Takehiro Tomiyasu\Takehiro-Tomiyasu,jp JPN,DF,Bologna,20,1998,20,20,1793,0,2,0,0,5,0,0.00,0.10,0.10,0.00,0.10,0.7,0.7,0.9,0.04,0.05,0.08,0.04,0.08,Matches
+142,Stefano Denswil\Stefano-Denswil,nl NED,DF,Bologna,26,1993,17,17,1513,0,1,0,0,6,1,0.00,0.06,0.06,0.00,0.06,0.7,0.7,0.3,0.04,0.02,0.06,0.04,0.06,Matches
+143,Panagiotis Tachtsidis\Panagiotis-Tachtsidis,gr GRE,MF,Lecce,28,1991,19,17,1446,0,1,0,0,6,1,0.00,0.06,0.06,0.00,0.06,0.7,0.7,1.1,0.04,0.07,0.11,0.04,0.11,Matches
+144,Marco Calderoni\Marco-Calderoni,it ITA,DF,Lecce,30,1989,19,18,1604,3,1,0,0,6,0,0.17,0.06,0.22,0.17,0.22,0.6,0.6,1.4,0.04,0.08,0.12,0.04,0.12,Matches
+145,Mário Rui\Mario-Rui,pt POR,DF,Napoli,28,1991,15,13,1206,0,1,0,0,6,0,0.00,0.07,0.07,0.00,0.07,0.5,0.5,2.4,0.04,0.18,0.22,0.04,0.22,Matches
+146,Tomás Rincón\Tomas-Rincon,ve VEN,MF,Torino,31,1988,21,21,1832,1,2,0,0,7,0,0.05,0.10,0.15,0.05,0.15,0.7,0.7,1.1,0.03,0.05,0.09,0.03,0.09,Matches
+147,Nahitan Nández\Nahitan-Nandez,uy URU,MF,Cagliari,23,1995,23,20,1818,1,3,0,0,10,0,0.05,0.15,0.20,0.05,0.20,0.7,0.7,2.3,0.03,0.11,0.15,0.03,0.15,Matches
+148,Milan Škriniar\Milan-Skriniar,sk SVK,DF,Inter,24,1995,24,24,2086,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,0.7,0.7,0.2,0.03,0.01,0.04,0.03,0.04,Matches
+149,Dalbert Henrique\Dalbert-Henrique,br BRA,DF,Fiorentina,25,1993,23,22,1964,0,3,0,0,5,1,0.00,0.14,0.14,0.00,0.14,0.7,0.7,3.1,0.03,0.14,0.18,0.03,0.18,Matches
+150,Jordan Veretout\Jordan-Veretout,fr FRA,MF,Roma,26,1993,24,22,1914,2,0,2,2,4,0,0.09,0.00,0.09,0.00,0.00,2.1,0.6,1.7,0.10,0.08,0.18,0.03,0.11,Matches
+151,Lucas Leiva\Lucas-Leiva,br BRA,MF,Lazio,32,1987,22,21,1694,0,1,0,0,9,1,0.00,0.05,0.05,0.00,0.05,0.6,0.6,2.0,0.03,0.11,0.14,0.03,0.14,Matches
+152,Andrea Cistana\Andrea-Cistana,it ITA,DF,Brescia,22,1997,21,21,1838,1,0,0,0,7,1,0.05,0.00,0.05,0.05,0.05,0.5,0.5,0.6,0.03,0.03,0.06,0.03,0.06,Matches
+153,Ragnar Klavan\Ragnar-Klavan,ee EST,DF,Cagliari,33,1985,22,19,1736,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,0.5,0.5,0.6,0.03,0.03,0.05,0.03,0.05,Matches
+154,Luca Pellegrini\Luca-Pellegrini,it ITA,DF,Cagliari,20,1999,20,19,1658,0,4,0,0,9,0,0.00,0.22,0.22,0.00,0.22,0.5,0.5,2.1,0.03,0.12,0.14,0.03,0.14,Matches
+155,Mateo Musacchio\Mateo-Musacchio,ar ARG,DF,Milan,28,1990,18,17,1466,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,0.4,0.4,0.6,0.03,0.04,0.06,0.03,0.06,Matches
+156,Nenad Tomović\Nenad-Tomovic,rs SRB,DF,SPAL,31,1987,19,16,1395,0,1,0,0,5,1,0.00,0.06,0.06,0.00,0.06,0.4,0.4,0.4,0.03,0.02,0.05,0.03,0.05,Matches
+157,Mato Jajalo\Mato-Jajalo,ba BIH,MF,Udinese,31,1988,20,14,1222,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,0.4,0.4,0.6,0.03,0.05,0.07,0.03,0.07,Matches
+158,Ken Sema\Ken-Sema,se SWE,DF,Udinese,25,1993,22,21,1721,2,0,0,0,4,0,0.10,0.00,0.10,0.10,0.10,0.4,0.4,2.1,0.02,0.11,0.13,0.02,0.13,Matches
+159,Luiz Felipe\Luiz-Felipe,br BRA,DF,Lazio,22,1997,19,18,1465,1,1,0,0,5,0,0.06,0.06,0.12,0.06,0.12,0.4,0.4,0.3,0.02,0.02,0.04,0.02,0.04,Matches
+160,Jeremy Toljan\Jeremy-Toljan,de GER,DF,Sassuolo,24,1994,23,21,1874,1,2,0,0,7,0,0.05,0.10,0.14,0.05,0.14,0.4,0.4,2.3,0.02,0.11,0.13,0.02,0.13,Matches
+161,Stefano Sabelli\Stefano-Sabelli,it ITA,DF,Brescia,26,1993,26,26,2340,0,2,0,0,3,0,0.00,0.08,0.08,0.00,0.08,0.4,0.4,2.4,0.02,0.09,0.11,0.02,0.11,Matches
+162,Alex Sandro\Alex-Sandro,br BRA,DF,Juventus,28,1991,22,22,1887,0,3,0,0,3,0,0.00,0.14,0.14,0.00,0.14,0.4,0.4,2.1,0.02,0.10,0.12,0.02,0.12,Matches
+163,Koray Günter\Koray-Gunter,de GER,DF,Hellas Verona,24,1994,22,21,1858,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,0.4,0.4,0.3,0.02,0.01,0.03,0.02,0.03,Matches
+164,Matteo Darmian\Matteo-Darmian,it ITA,DF,Parma,29,1989,21,21,1838,0,1,0,0,4,0,0.00,0.05,0.05,0.00,0.05,0.4,0.4,0.8,0.02,0.04,0.06,0.02,0.06,Matches
+165,Ismaël Bennacer\Ismael-Bennacer,dz ALG,MF,Milan,21,1997,20,18,1620,0,0,0,0,12,0,0.00,0.00,0.00,0.00,0.00,0.4,0.4,0.8,0.02,0.05,0.07,0.02,0.07,Matches
+166,Thiago Cionek\Thiago-Cionek,pl POL,DF,SPAL,33,1986,20,17,1597,0,1,0,0,9,0,0.00,0.06,0.06,0.00,0.06,0.4,0.4,1.0,0.02,0.05,0.08,0.02,0.08,Matches
+167,Jacopo Petriccione\Jacopo-Petriccione,it ITA,MF,Lecce,24,1995,20,16,1458,0,4,0,0,7,0,0.00,0.25,0.25,0.00,0.25,0.4,0.4,1.5,0.02,0.09,0.12,0.02,0.12,Matches
+168,Bram Nuytinck\Bram-Nuytinck,nl NED,DF,Udinese,29,1990,16,16,1408,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.4,0.4,0.7,0.02,0.05,0.07,0.02,0.07,Matches
+169,Rodrigo Becão\Rodrigo-Becao,br BRA,DF,Udinese,23,1996,20,17,1544,1,0,0,0,6,0,0.06,0.00,0.06,0.06,0.06,0.3,0.3,0.1,0.02,0.00,0.02,0.02,0.02,Matches
+170,Luca Cigarini\Luca-Cigarini,it ITA,MF,Cagliari,33,1986,20,18,1497,0,4,0,0,5,0,0.00,0.24,0.24,0.00,0.24,0.3,0.3,2.8,0.02,0.17,0.19,0.02,0.19,Matches
+171,Davide Biraschi\Davide-Biraschi,it ITA,DF,Genoa,25,1994,15,14,1305,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,0.3,0.3,0.2,0.02,0.02,0.04,0.02,0.04,Matches
+172,Domenico Criscito\Domenico-Criscito,it ITA,DF,Genoa,32,1986,19,19,1627,7,0,6,7,6,0,0.39,0.00,0.39,0.06,0.06,5.6,0.3,1.0,0.31,0.06,0.37,0.01,0.07,Matches
+173,William Troost-Ekong\William-Troost-Ekong,ng NGA,DF,Udinese,25,1993,23,23,2059,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,0.3,0.3,0.1,0.01,0.00,0.02,0.01,0.02,Matches
+174,Nicola Murru\Nicola-Murru,it ITA,DF,Sampdoria,24,1994,22,22,1885,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,0.3,0.3,1.4,0.01,0.07,0.08,0.01,0.08,Matches
+175,Fabio Pisacane\Fabio-Pisacane,it ITA,DF,Cagliari,33,1986,22,22,1941,1,0,0,0,6,1,0.05,0.00,0.05,0.05,0.05,0.2,0.2,0.3,0.01,0.01,0.02,0.01,0.02,Matches
+176,Ștefan Radu\Stefan-Radu,ro ROU,DF,Lazio,32,1986,22,22,1864,1,0,0,0,6,0,0.05,0.00,0.05,0.05,0.05,0.2,0.2,0.3,0.01,0.01,0.02,0.01,0.02,Matches
+177,Francesco Vicari\Francesco-Vicari,it ITA,DF,SPAL,24,1994,23,22,1947,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,0.2,0.2,0.0,0.01,0.00,0.01,0.01,0.01,Matches
+178,Bartosz Bereszyński\Bartosz-Bereszynski,pl POL,DF,Sampdoria,27,1992,17,17,1492,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,0.2,0.2,0.1,0.01,0.01,0.02,0.01,0.02,Matches
+179,Ola Aina\Ola-Aina,ng NGA,DF,Torino,22,1996,20,15,1456,0,1,0,0,6,0,0.00,0.06,0.06,0.00,0.06,0.2,0.2,1.3,0.01,0.08,0.09,0.01,0.09,Matches
+180,Rodrigo Bentancur\Rodrigo-Bentancur,uy URU,MF,Juventus,22,1997,19,15,1322,0,6,0,0,7,0,0.00,0.41,0.41,0.00,0.41,0.2,0.2,2.7,0.01,0.18,0.20,0.01,0.20,Matches
+181,Luca Rossettini\Luca-Rossettini,it ITA,DF,Lecce,34,1985,25,25,2216,0,2,0,0,5,0,0.00,0.08,0.08,0.00,0.08,0.1,0.1,1.1,0.01,0.05,0.05,0.01,0.05,Matches
+182,Filippo Romagna\Filippo-Romagna,it ITA,DF,Sassuolo,22,1997,18,16,1477,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,0.1,0.1,0.2,0.01,0.01,0.02,0.01,0.02,Matches
+183,Igor\Igor,br BRA,DF,SPAL,21,1998,17,15,1337,0,1,0,0,7,0,0.00,0.07,0.07,0.00,0.07,0.1,0.1,1.0,0.01,0.07,0.08,0.01,0.08,Matches
+184,Danilo Larangeira\Danilo-Larangeira,br BRA,DF,Bologna,35,1984,19,19,1687,1,0,0,0,9,1,0.05,0.00,0.05,0.05,0.05,0.1,0.1,0.1,0.00,0.00,0.01,0.00,0.01,Matches
+185,Aleš Matějů\Ales-Mateju,cz CZE,DF,Brescia,23,1996,20,18,1640,0,1,0,0,7,1,0.00,0.05,0.05,0.00,0.05,0.1,0.1,1.0,0.00,0.06,0.06,0.00,0.06,Matches
+186,Etrit Berisha\Etrit-Berisha,al ALB,GK,SPAL,30,1989,26,26,2340,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.1,0.00,0.00,0.00,0.00,0.00,Matches
+187,Bartłomiej Drągowski\Bartlomiej-Dragowski,pl POL,GK,Fiorentina,21,1997,26,26,2340,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+188,Juan Musso\Juan-Musso,ar ARG,GK,Udinese,25,1994,26,26,2340,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+189,Thomas Strakosha\Thomas-Strakosha,al ALB,GK,Lazio,24,1995,26,26,2340,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.2,0.00,0.01,0.01,0.00,0.01,Matches
+190,Emil Audero\Emil-Audero,it ITA,GK,Sampdoria,22,1997,25,25,2250,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+191,Pau López\Pau-Lopez,es ESP,GK,Roma,24,1994,25,25,2250,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+192,Marco Silvestri\Marco-Silvestri,it ITA,GK,Hellas Verona,28,1991,25,25,2250,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+193,Salvatore Sirigu\Salvatore-Sirigu,it ITA,GK,Torino,32,1987,25,25,2250,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+194,Łukasz Skorupski\Lukasz-Skorupski,pl POL,GK,Bologna,28,1991,25,25,2250,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+195,Gianluigi Donnarumma\Gianluigi-Donnarumma,it ITA,GK,Milan,20,1999,24,24,2121,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+196,Pierluigi Gollini\Pierluigi-Gollini,it ITA,GK,Atalanta,24,1995,22,22,1980,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+197,Samir Handanović\Samir-Handanovic,si SVN,GK,Inter,35,1984,22,22,1980,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+198,Jesse Joronen\Jesse-Joronen,fi FIN,GK,Brescia,26,1993,22,22,1980,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+199,Gabriel\Gabriel,br BRA,GK,Lecce,26,1992,22,22,1917,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+200,Luigi Sepe\Luigi-Sepe,it ITA,GK,Parma,28,1991,21,21,1890,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+201,Andrea Consigli\Andrea-Consigli,it ITA,GK,Sassuolo,32,1987,20,20,1800,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.3,0.00,0.01,0.01,0.00,0.01,Matches
+202,Wojciech Szczęsny\Wojciech-Szczesny,pl POL,GK,Juventus,29,1990,19,19,1710,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+203,Ionuț Radu\Ionut-Radu,ro ROU,GK,Genoa,22,1997,17,17,1530,0,1,0,0,1,0,0.00,0.06,0.06,0.00,0.06,0.0,0.0,0.1,0.00,0.01,0.01,0.00,0.01,Matches
+204,Robin Olsen\Robin-Olsen,se SWE,GK,Cagliari,29,1990,16,16,1434,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+205,Alex Meret\Alex-Meret,it ITA,GK,Napoli,22,1997,15,15,1350,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+206,Andrea Conti\Andrea-Conti,it ITA,DF,Milan,25,1994,16,14,1248,0,1,0,0,5,0,0.00,0.07,0.07,0.00,0.07,0.0,0.0,0.8,0.00,0.05,0.06,0.00,0.06,Matches
