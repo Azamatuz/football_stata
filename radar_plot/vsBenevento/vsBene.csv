@@ -1,0 +1,17 @@
+,,,,,,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Dribbles,Dribbles
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PrgDist,Carries,PrgDist,Succ,Att
+Álvaro Morata\Alvaro-Morata,9,es ESP,FW,28-036,89,1,0,0,0,4,1,0,1,45,11,0,0,1,0.7,0.7,0.0,2,0,23,31,74.2,57,36,60,0,1
+Paulo Dybala\Paulo-Dybala,10,ar ARG,FW,27-013,90,0,0,0,0,6,1,0,0,71,21,3,0,4,0.7,0.7,0.1,4,0,43,56,76.8,96,51,128,1,1
+Aaron Ramsey\Aaron-Ramsey,8,wal WAL,LM,29-338,61,0,0,0,0,1,1,0,0,52,8,1,0,1,0.1,0.1,0.2,4,0,35,42,83.3,140,44,86,0,0
+Dejan Kulusevski\Dejan-Kulusevski,44,se SWE,FW,20-217,29,0,0,0,0,1,1,0,0,18,8,1,0,0,0.0,0.0,0.3,2,0,9,13,69.2,21,15,105,0,0
+Adrien Rabiot\Adrien-Rabiot,25,fr FRA,CM,25-239,90,0,0,0,0,1,0,0,0,77,13,1,1,0,0.0,0.0,0.0,2,0,61,66,92.4,318,67,347,3,5
+Arthur Melo\Arthur-Melo,5,br BRA,CM,24-108,61,0,0,0,0,0,0,0,0,66,6,0,3,3,0.0,0.0,0.0,2,0,53,58,91.4,237,53,98,1,1
+Rodrigo Bentancur\Rodrigo-Bentancur,30,uy URU,MF,23-176,29,0,0,0,0,1,0,0,0,23,2,0,1,0,0.2,0.2,0.0,0,0,19,19,100.0,79,16,40,0,1
+Federico Chiesa\Federico-Chiesa,22,it ITA,RM,23-034,68,0,1,0,0,1,1,0,0,38,12,1,0,3,0.0,0.0,0.7,5,1,20,26,76.9,89,30,138,2,2
+Federico Bernardeschi\Federico-Bernardeschi,33,it ITA,FWMF,26-286,22,0,0,0,0,0,0,0,0,14,5,0,0,1,0.0,0.0,0.2,3,0,7,13,53.8,29,10,25,0,0
+Gianluca Frabotta\Gianluca-Frabotta,38,it ITA,LB,21-157,90,0,0,0,0,1,0,0,0,100,9,2,2,1,0.1,0.1,0.2,4,0,83,93,89.2,478,76,247,0,1
+Danilo\Danilo,13,br BRA,CB,29-136,90,0,0,0,0,0,0,0,0,96,4,2,3,0,0.0,0.0,0.0,0,0,84,90,93.3,537,86,221,1,1
+Matthijs de Ligt\Matthijs-de-Ligt,4,nl NED,CB,21-108,90,0,0,0,0,0,0,0,0,92,4,1,2,1,0.0,0.0,0.0,1,0,76,84,90.5,464,74,258,0,0
+Juan Cuadrado\Juan-Cuadrado,16,co COL,RB,32-186,90,0,0,0,0,0,0,1,0,90,11,3,1,3,0.0,0.0,0.0,1,1,67,80,83.8,402,63,141,0,1
+Wojciech Szczęsny\Wojciech-Szczesny,1,pl POL,GK,30-224,90,0,0,0,0,0,0,0,0,20,0,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,313,12,42,0,0
+14 Players,,,,,989,1,1,0,0,16,5,1,1,802,114,15,13,18,1.9,1.9,1.7,30,2,595,687,86.6,3260,633,1936,8,14

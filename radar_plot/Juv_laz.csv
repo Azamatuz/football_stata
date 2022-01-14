@@ -1,0 +1,17 @@
+,,,,,,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Dribbles,Dribbles
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks▼,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PrgDist,Carries,PrgDist,Succ,Att
+Rodrigo Bentancur\Rodrigo-Bentancur,30,uy URU,CM,23-156,90,0,0,0,0,1,0,1,0,80,25,1,1,6,0.0,0.0,0.0,3,1,56,64,87.5,267,48,111,2,3
+Leonardo Bonucci\Leonardo-Bonucci,19,it ITA,CB,33-191,90,0,0,0,0,0,0,0,0,68,5,0,0,5,0.0,0.0,0.0,0,0,51,58,87.9,375,35,114,0,0
+Juan Cuadrado\Juan-Cuadrado,16,co COL,WB,32-166,90,0,1,0,0,0,0,1,0,70,15,5,1,4,0.0,0.0,0.8,3,1,48,57,84.2,341,49,159,3,3
+Dejan Kulusevski\Dejan-Kulusevski,44,se SWE,RW,20-197,76,0,0,0,0,2,0,0,0,43,21,1,0,3,0.1,0.1,0.1,4,0,28,33,84.8,111,34,254,2,3
+Adrien Rabiot\Adrien-Rabiot,25,fr FRA,CM,25-219,90,0,0,0,0,3,2,0,0,61,21,4,1,3,0.2,0.2,0.1,2,0,46,51,90.2,247,47,203,2,2
+Álvaro Morata\Alvaro-Morata,9,es ESP,FW,28-016,88,0,0,0,0,0,0,0,0,38,12,1,0,1,0.0,0.0,0.1,5,0,22,28,78.6,67,32,222,4,4
+Cristiano Ronaldo\Cristiano-Ronaldo,7,pt POR,LW,35-277,75,1,0,0,0,5,3,0,0,40,5,0,1,1,0.9,0.9,0.0,4,0,22,31,71.0,20,29,163,2,2
+Gianluca Frabotta\Gianluca-Frabotta,38,it ITA,WB,21-137,90,0,0,0,0,0,0,0,0,34,18,1,0,1,0.0,0.0,0.0,1,0,21,27,77.8,73,18,27,0,0
+Danilo\Danilo,13,br BRA,CB,29-116,90,0,0,0,0,0,0,0,0,89,3,1,2,1,0.0,0.0,0.0,0,0,74,82,90.2,414,59,174,2,2
+Paulo Dybala\Paulo-Dybala,10,ar ARG,LW,26-359,15,0,0,0,0,0,0,0,0,15,1,0,0,1,0.0,0.0,0.0,0,0,7,8,87.5,37,13,9,0,0
+Merih Demiral\Merih-Demiral,28,tr TUR,CB,22-248,90,0,0,0,0,0,0,0,0,67,8,2,1,0,0.0,0.0,0.0,0,0,53,56,94.6,276,42,79,0,0
+Wojciech Szczęsny\Wojciech-Szczesny,1,pl POL,GK,30-204,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,29,32,90.6,267,13,29,0,0
+Weston McKennie\Weston-McKennie,14,us USA,RW,22-072,14,0,0,0,0,0,0,0,0,7,8,2,0,0,0.0,0.0,0.0,0,0,4,5,80.0,22,3,1,0,0
+Federico Bernardeschi\Federico-Bernardeschi,33,it ITA,FW,26-266,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,3,2,6,0,0
+14 Players,,,,,990,1,1,0,0,11,5,2,0,646,142,18,7,26,1.2,1.2,1.1,22,2,462,533,86.7,2520,424,1551,17,19

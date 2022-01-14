@@ -1,0 +1,32 @@
+,,,,,,,,,,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,,,,,,,,
+Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xA,KP,1/3,PPA,CrsPA,Prog,Match Report
+2019-09-14,Sat,Matchweek 3,Away,D 0–0,Juventus,Fiorentina,N,CM,47,20,23,87.0,443,110,0,1,0.0,15,17,88.2,5,5,100.0,0,0.0,0,5,1,0,1,Match Report
+2019-09-21,Sat,Matchweek 4,Home,W 2–1,Juventus,Hellas Verona,Y,DM,50,26,30,86.7,421,79,0,0,,23,26,88.5,3,4,75.0,0,0.0,0,0,0,0,1,Match Report
+2019-09-28,Sat,Matchweek 6,Home,W 2–0,Juventus,SPAL,N,CM,14,7,9,77.8,97,11,1,3,33.3,6,6,100.0,0,0,,0,0.0,0,0,0,0,1,Match Report
+2019-10-06,Sun,Matchweek 7,Away,W 2–1,Juventus,Inter,N,AMCM,29,8,9,88.9,137,48,0,1,0.0,8,8,100.0,0,0,,1,0.3,1,0,1,0,1,Match Report
+2019-10-19,Sat,Matchweek 8,Home,W 2–1,Juventus,Bologna,N,CM,29,26,28,92.9,422,54,1,1,100.0,23,24,95.8,2,3,66.7,0,0.0,0,2,0,0,1,Match Report
+2019-10-26,Sat,Matchweek 9,Away,D 1–1,Juventus,Lecce,Y,CMDM,90,57,68,83.8,1011,214,2,3,66.7,46,50,92.0,9,15,60.0,0,0.2,4,5,1,1,5,Match Report
+2019-10-30,Wed,Matchweek 10,Home,W 2–1,Juventus,Genoa,Y,DM,90,59,68,86.8,1008,356,0,3,0.0,51,54,94.4,8,11,72.7,1,0.3,4,3,2,0,8,Match Report
+2019-11-02,Sat,Matchweek 11,Away,W 1–0,Juventus,Torino,Y,CM,75,32,35,91.4,612,242,0,0,,24,24,100.0,8,11,72.7,0,0.2,2,1,2,1,5,Match Report
+2019-11-10,Sun,Matchweek 12,Home,W 1–0,Juventus,Milan,Y,CM,90,43,51,84.3,702,214,1,4,25.0,34,36,94.4,8,11,72.7,0,0.0,0,2,0,0,3,Match Report
+2019-11-23,Sat,Matchweek 13,Away,W 3–1,Juventus,Atalanta,Y,CM,57,20,26,76.9,277,74,0,1,0.0,19,24,79.2,1,1,100.0,0,0.0,0,2,0,0,2,Match Report
+2019-12-01,Sun,Matchweek 14,Home,D 2–2,Juventus,Sassuolo,Y,CM,90,55,59,93.2,957,274,2,2,100.0,43,45,95.6,10,12,83.3,1,0.0,1,7,2,0,10,Match Report
+2019-12-07,Sat,Matchweek 15,Away,L 1–3,Juventus,Lazio,Y,CM,40,20,25,80.0,273,48,2,3,66.7,17,21,81.0,1,1,100.0,1,0.8,2,1,1,0,2,Match Report
+2019-12-15,Sun,Matchweek 16,Home,W 3–1,Juventus,Udinese,Y,DM,90,113,122,92.6,1962,528,4,4,100.0,88,95,92.6,21,23,91.3,0,0.0,0,9,0,0,4,Match Report
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-01-26,Sun,Matchweek 21,Away,L 1–2,Juventus,Napoli,Y,CMDM,90,56,63,88.9,983,168,1,2,50.0,47,49,95.9,8,12,66.7,1,0.2,2,3,1,0,3,Match Report
+2020-02-02,Sun,Matchweek 22,Home,W 3–0,Juventus,Fiorentina,Y,CM,90,67,73,91.8,1068,142,0,2,0.0,60,64,93.8,7,7,100.0,0,0.0,1,7,0,0,5,Match Report
+2020-02-08,Sat,Matchweek 23,Away,L 1–2,Juventus,Hellas Verona,Y,CM,81,42,48,87.5,732,177,0,1,0.0,34,37,91.9,8,10,80.0,1,0.2,3,5,0,0,1,Match Report
+2020-02-16,Sun,Matchweek 24,Home,W 2–0,Juventus,Brescia,Y,DMCM,90,106,117,90.6,1840,577,3,6,50.0,84,88,95.5,19,23,82.6,0,0.1,3,24,2,1,13,Match Report
+2020-02-22,Sat,Matchweek 25,Away,W 2–1,Juventus,SPAL,Y,CM,90,78,86,90.7,1469,435,4,4,100.0,60,65,92.3,14,17,82.4,0,0.0,1,11,0,0,7,Match Report
+2020-03-08,Sun,Matchweek 26,Home,W 2–0,Juventus,Inter,Y,DM,90,59,64,92.2,1237,376,1,1,100.0,38,43,88.4,20,20,100.0,0,0.3,4,4,0,0,8,Match Report
+2020-06-22,Mon,Matchweek 27,Away,W 2–0,Juventus,Bologna,Y,CMDM,90,39,48,81.3,748,139,1,3,33.3,29,34,85.3,9,11,81.8,0,0.1,1,4,1,0,1,Match Report
+2020-06-26,Fri,Matchweek 28,Home,W 4–0,Juventus,Lecce,Y,CM,67,38,48,79.2,573,165,1,4,25.0,34,38,89.5,3,6,50.0,0,0.0,0,2,0,0,4,Match Report
+2020-06-30,Tue,Matchweek 29,Away,W 3–1,Juventus,Genoa,Y,CM,90,71,88,80.7,1035,251,3,9,33.3,59,66,89.4,9,13,69.2,0,0.1,2,7,0,0,3,Match Report
+2020-07-04,Sat,Matchweek 30,Home,W 4–1,Juventus,Torino,Y,CMDM,90,37,47,78.7,654,128,1,3,33.3,30,36,83.3,6,8,75.0,0,0.0,2,3,0,0,1,Match Report
+2020-07-07,Tue,Matchweek 31,Away,L 2–4,Juventus,Milan,Y,CMDM,89,45,52,86.5,969,220,0,2,0.0,29,31,93.5,16,19,84.2,0,0.0,1,6,0,0,5,Match Report
+2020-07-11,Sat,Matchweek 32,Home,D 2–2,Juventus,Atalanta,Y,CM,90,74,82,90.2,1629,317,0,0,,49,51,96.1,25,31,80.6,0,0.1,2,11,1,0,4,Match Report
+2020-07-15,Wed,Matchweek 33,Away,D 3–3,Juventus,Sassuolo,Y,CMDM,90,39,48,81.3,747,200,2,5,40.0,26,31,83.9,11,12,91.7,1,0.2,2,5,0,0,6,Match Report
+2020-07-20,Mon,Matchweek 34,Home,W 2–1,Juventus,Lazio,Y,DM,90,60,70,85.7,1117,332,1,4,25.0,46,51,90.2,13,15,86.7,0,0.1,2,6,0,0,7,Match Report
+2020-07-23,Thu,Matchweek 35,Away,L 1–2,Juventus,Udinese,Y,CM,90,73,82,89.0,1542,348,0,1,0.0,52,53,98.1,21,28,75.0,0,0.0,0,7,0,0,5,Match Report
+,,,,18-5-5,,,24/28,,2108,1370,1569,87.3,24665,6227,31,73,42.5,1074,1167,92.0,265,329,80.5,7,3.3,40,142,15,3,117,

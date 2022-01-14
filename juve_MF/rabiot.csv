@@ -1,0 +1,36 @@
+,,,,,,,,,,,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Dribbles,Dribbles,
+Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PrgDist,Carries,PrgDist,Succ,Att,Match Report
+2019-08-24,Sat,Serie A,Matchweek 1,Away,W 1–0,Juventus,Parma,N,CM,28,0,0,0,0,0,0,0,0,15,9,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,28,12,34,0,0,Match Report
+2019-09-24,Tue,Serie A,Matchweek 5,Away,W 2–1,Juventus,Brescia,Y,CMAM,90,0,0,0,0,2,0,0,0,85,22,3,3,4,0.2,0.2,0.1,4,0,54,63,85.7,154,61,124,1,2,Match Report
+2019-09-28,Sat,Serie A,Matchweek 6,Home,W 2–0,Juventus,SPAL,Y,CM,76,0,0,0,0,1,0,0,0,57,25,3,1,2,0.0,0.0,0.0,1,0,44,48,91.7,111,43,91,0,0,Match Report
+2019-10-19,Sat,Serie A,Matchweek 8,Home,W 2–1,Juventus,Bologna,Y,CM,72,0,0,0,0,1,0,1,0,68,7,1,2,0,0.0,0.0,0.0,4,0,50,58,86.2,173,59,226,3,3,Match Report
+2019-10-22,Tue,Champions Lg,Group stage,Home,W 2–1,it Juventus,ru Loko Moscow,N,CM,26,0,0,0,0,0,0,0,0,21,5,0,0,0,0.0,0.0,0.1,2,0,17,19,89.5,74,20,78,3,3,Match Report
+2019-10-26,Sat,Serie A,Matchweek 9,Away,D 1–1,Juventus,Lecce,N,CM,19,0,0,0,0,0,0,0,0,19,6,0,0,3,0.0,0.0,0.0,0,0,11,14,78.6,20,11,72,0,0,Match Report
+2019-10-30,Wed,Serie A,Matchweek 10,Home,W 2–1,Juventus,Genoa,N,CM,26,0,0,0,0,0,0,2,1,19,7,2,0,1,0.0,0.0,0.0,1,0,15,16,93.8,60,18,80,3,3,Match Report
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-11-06,Wed,Champions Lg,Group stage,Away,W 2–1,it Juventus,ru Loko Moscow,Y,CM,90,0,0,0,0,1,1,0,0,87,24,3,0,1,0.0,0.0,0.4,5,0,69,76,90.8,224,67,206,1,2,Match Report
+2019-11-10,Sun,Serie A,Matchweek 12,Home,W 1–0,Juventus,Milan,N,CM,21,0,0,0,0,0,0,0,0,13,4,0,2,0,0.0,0.0,0.0,0,0,8,9,88.9,9,9,21,0,0,Match Report
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-12-11,Wed,Champions Lg,Group stage,Away,W 2–0,it Juventus,de Leverkusen,Y,CM,84,0,0,0,0,0,0,0,0,67,31,3,0,3,0.0,0.0,0.0,0,0,40,53,75.5,159,51,174,6,8,Match Report
+2019-12-15,Sun,Serie A,Matchweek 16,Home,W 3–1,Juventus,Udinese,Y,CM,90,0,0,0,0,2,0,0,0,72,23,7,2,1,0.1,0.1,0.0,2,0,53,60,88.3,171,45,166,1,1,Match Report
+2019-12-18,Wed,Serie A,Matchweek 17,Away,W 2–1,Juventus,Sampdoria,Y,CM,90,0,0,0,0,0,0,0,0,73,30,5,1,3,0.0,0.0,0.1,3,1,60,61,98.4,142,58,234,2,3,Match Report
+2020-01-06,Mon,Serie A,Matchweek 18,Home,W 4–0,Juventus,Cagliari,Y,CM,90,0,0,0,0,0,0,1,0,76,21,4,0,1,0.0,0.0,0.1,1,0,61,66,92.4,152,57,178,1,3,Match Report
+2020-01-12,Sun,Serie A,Matchweek 19,Away,W 2–1,Juventus,Roma,Y,CM,90,0,0,0,0,0,0,0,0,52,14,0,1,6,0.0,0.0,0.1,1,0,35,37,94.6,89,31,90,2,3,Match Report
+2020-01-15,Wed,Coppa Italia,Round of 16,Home,W 4–0,Juventus,Udinese,Y,CM,70,0,0,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+2020-01-19,Sun,Serie A,Matchweek 20,Home,W 2–1,Juventus,Parma,Y,CM,90,0,0,0,0,0,0,0,0,68,20,2,2,1,0.0,0.0,0.0,1,0,55,57,96.5,199,51,165,3,4,Match Report
+2020-01-22,Wed,Coppa Italia,Quarter-finals,Home,W 3–1,Juventus,Roma,Y,CM,76,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-01-26,Sun,Serie A,Matchweek 21,Away,L 1–2,Juventus,Napoli,N,CM,41,0,0,0,0,0,0,1,0,17,19,0,2,0,0.0,0.0,0.0,1,0,14,16,87.5,21,14,38,0,0,Match Report
+2020-02-02,Sun,Serie A,Matchweek 22,Home,W 3–0,Juventus,Fiorentina,Y,CM,87,0,0,0,0,1,1,0,0,45,21,1,1,0,0.0,0.0,0.0,0,0,35,39,89.7,76,38,102,4,4,Match Report
+2020-02-08,Sat,Serie A,Matchweek 23,Away,L 1–2,Juventus,Hellas Verona,Y,CM,90,0,0,0,0,0,0,0,0,50,24,0,2,2,0.0,0.0,0.0,2,0,36,42,85.7,130,36,154,1,2,Match Report
+2020-02-13,Thu,Coppa Italia,Semi-finals,Away,D 1–1,Juventus,Milan,N,,18,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-02-16,Sun,Serie A,Matchweek 24,Home,W 2–0,Juventus,Brescia,Y,CM,90,0,0,0,0,0,0,0,0,78,28,1,1,3,0.0,0.0,0.0,1,0,64,71,90.1,120,64,167,1,1,Match Report
+2020-02-22,Sat,Serie A,Matchweek 25,Away,W 2–1,Juventus,SPAL,N,CM,18,0,0,0,0,0,0,0,0,18,1,0,0,1,0.0,0.0,0.0,0,0,11,14,78.6,25,13,29,0,0,Match Report
+2020-02-26,Wed,Champions Lg,Round of 16,Away,L 0–1,it Juventus,fr Lyon,Y,CM,77,0,0,0,0,1,0,0,0,42,23,2,0,0,0.1,0.1,0.0,0,0,29,35,82.9,78,28,83,0,0,Match Report
+2020-06-12,Fri,Coppa Italia,Semi-finals,Home,D 0–0,Juventus,Milan,N,,29,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+2020-06-22,Mon,Serie A,Matchweek 27,Away,W 2–0,Juventus,Bologna,Y,CM,69,0,0,0,0,0,0,0,0,45,18,2,0,2,0.0,0.0,0.0,2,0,30,32,93.8,107,30,67,1,1,Match Report
+2020-06-26,Fri,Serie A,Matchweek 28,Home,W 4–0,Juventus,Lecce,Y,CM,51,0,0,0,0,1,1,0,0,35,11,0,1,1,0.0,0.0,0.0,3,0,30,31,96.8,65,29,73,0,0,Match Report
+2020-06-30,Tue,Serie A,Matchweek 29,Away,W 3–1,Juventus,Genoa,Y,CM,82,0,0,0,0,1,1,0,0,53,23,2,0,2,0.1,0.1,0.0,2,1,35,40,87.5,101,35,96,2,2,Match Report
+2020-07-04,Sat,Serie A,Matchweek 30,Home,W 4–1,Juventus,Torino,Y,CMDM,90,0,0,0,0,1,0,0,0,65,31,6,0,3,0.0,0.0,0.0,1,0,45,50,90.0,124,52,138,1,2,Match Report
+2020-07-07,Tue,Serie A,Matchweek 31,Away,L 2–4,Juventus,Milan,Y,CM,68,1,0,0,0,2,1,0,0,33,6,2,1,0,0.1,0.1,0.1,3,1,20,23,87.0,58,27,125,3,3,Match Report
+2020-07-11,Sat,Serie A,Matchweek 32,Home,D 2–2,Juventus,Atalanta,Y,CM,90,0,0,0,0,0,0,1,0,62,15,0,3,3,0.0,0.0,0.0,0,0,45,53,84.9,143,49,148,2,3,Match Report
+,,,,,23-4-4,,,22/31,,2028,1,0,0,0,15,6,6,1,1335,468,49,28,43,0.8,0.8,0.9,41,3,975,1095,89.0,2813,1008,3159,41,53,

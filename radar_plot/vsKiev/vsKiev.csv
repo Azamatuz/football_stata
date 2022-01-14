@@ -1,0 +1,19 @@
+Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Dribbles,Dribbles
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PrgDist,Carries,PrgDist,Succ,Att
+Álvaro Morata\Alvaro-Morata,9,es ESP,FW,28-040,90,1,1,0,0,4,2,0,0,62,13,5,1,1,0.4,0.4,1.0,4,2,37,46,80.4,102,50,132,2,2
+Cristiano Ronaldo\Cristiano-Ronaldo,7,pt POR,FW,35-301,90,1,0,0,0,6,2,0,0,51,7,0,0,1,1.5,1.5,0.0,5,0,27,37,73.0,70,40,224,3,3
+Aaron Ramsey\Aaron-Ramsey,8,wal WAL,AM,29-342,61,0,0,0,0,1,0,0,0,38,5,0,1,0,0.0,0.0,0.0,2,1,29,34,85.3,174,28,46,0,1
+Federico Bernardeschi\Federico-Bernardeschi,33,it ITA,AM,26-290,29,0,0,0,0,3,1,0,0,21,1,0,1,0,0.8,0.8,0.0,2,0,13,17,76.5,34,18,29,3,3
+Rodrigo Bentancur\Rodrigo-Bentancur,30,uy URU,DM,23-180,75,0,0,0,0,0,0,1,0,82,12,1,2,2,0.0,0.0,0.2,4,0,71,77,92.2,361,62,85,1,1
+Arthur Melo\Arthur-Melo,5,br BRA,DM,24-112,15,0,0,0,0,0,0,0,0,22,2,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,67,19,21,0,0
+Weston McKennie\Weston-McKennie,14,us USA,DM,22-096,90,0,0,0,0,1,1,0,0,64,26,3,1,2,0.1,0.1,0.1,4,0,43,54,79.6,120,45,66,0,0
+Alex Sandro\Alex-Sandro,12,br BRA,WB,29-311,90,0,1,0,0,0,0,0,0,78,4,2,1,1,0.0,0.0,0.5,4,1,62,72,86.1,270,59,146,3,3
+Federico Chiesa\Federico-Chiesa,22,it ITA,WB,23-038,75,1,1,0,0,3,1,0,0,52,14,4,1,1,0.2,0.2,0.8,6,2,28,40,70.0,154,40,126,0,1
+Dejan Kulusevski\Dejan-Kulusevski,44,se SWE,WB,20-221,15,0,0,0,0,0,0,0,0,11,7,2,0,1,0.0,0.0,0.0,1,0,5,8,62.5,38,7,125,0,0
+Matthijs de Ligt\Matthijs-de-Ligt,4,nl NED,CB,21-112,90,0,0,0,0,0,0,0,0,89,6,4,1,0,0.0,0.0,0.0,2,0,75,80,93.8,604,69,281,0,0
+Leonardo Bonucci\Leonardo-Bonucci,19,it ITA,CB,33-215,61,0,0,0,0,0,0,0,0,38,6,0,0,0,0.0,0.0,0.0,0,0,35,37,94.6,280,32,92,0,0
+Danilo\Danilo,13,br BRA,CB,29-140,29,0,0,0,0,0,0,0,0,32,3,0,0,1,0.0,0.0,0.0,0,0,28,31,90.3,169,24,46,0,0
+Merih Demiral\Merih-Demiral,28,tr TUR,CB,22-272,68,0,0,0,0,0,0,0,0,62,10,2,0,0,0.0,0.0,0.0,0,0,48,57,84.2,333,39,74,0,0
+Radu Drăgușin\Radu-Dragusin,37,ro ROU,CB,18-303,22,0,0,0,0,0,0,0,0,27,3,0,0,0,0.0,0.0,0.0,0,0,25,26,96.2,122,24,39,0,0
+Wojciech Szczęsny\Wojciech-Szczesny,1,pl POL,GK,30-228,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,23,23,100.0,247,13,17,0,0
+16 Players,,,,,990,3,3,0,0,18,7,1,0,755,119,23,9,10,3.0,3.0,2.6,34,6,569,661,86.1,3145,569,1549,12,14

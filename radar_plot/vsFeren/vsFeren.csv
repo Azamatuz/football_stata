@@ -1,0 +1,20 @@
+
+,,,,,,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Dribbles,Dribbles
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PrgDist,Carries,PrgDist,Succ,Att
+Cristiano Ronaldo\Cristiano-Ronaldo,7,pt POR,FW,35-293,90,1,0,0,0,2,1,0,0,48,7,0,0,1,0.1,0.1,0.2,4,1,30,35,85.7,91,35,63,3,6
+Paulo Dybala\Paulo-Dybala,10,ar ARG,FW,27-009,61,0,0,0,0,3,2,0,0,48,9,0,0,0,0.2,0.2,0.1,4,0,33,40,82.5,76,35,49,0,1
+Álvaro Morata\Alvaro-Morata,9,es ESP,FW,28-032,29,1,0,0,0,2,1,0,0,9,5,0,0,1,0.4,0.4,0.0,0,0,5,5,100.0,27,6,18,2,2
+Federico Bernardeschi\Federico-Bernardeschi,33,it ITA,LM,26-282,61,0,0,0,0,3,0,0,0,37,3,1,0,1,0.1,0.1,0.0,2,0,22,30,73.3,87,33,117,2,3
+Federico Chiesa\Federico-Chiesa,22,it ITA,LM,23-030,29,0,0,0,0,0,0,1,0,25,5,0,1,0,0.0,0.0,0.2,1,0,12,20,60.0,41,16,33,0,1
+Weston McKennie\Weston-McKennie,14,us USA,RM,22-088,61,0,0,0,0,0,0,0,0,33,18,2,1,1,0.0,0.0,0.0,0,0,21,27,77.8,49,17,28,1,1
+Dejan Kulusevski\Dejan-Kulusevski,44,se SWE,RM,20-213,29,0,0,0,0,1,0,0,0,11,9,0,0,1,0.0,0.0,0.0,1,0,3,7,42.9,11,10,25,1,1
+Arthur Melo\Arthur-Melo,5,br BRA,DM,24-104,82,0,0,0,0,2,0,0,0,104,14,0,0,1,0.1,0.1,0.1,3,0,87,96,90.6,463,83,226,1,2
+Aaron Ramsey\Aaron-Ramsey,8,wal WAL,DM,29-334,8,0,0,0,0,0,0,0,0,18,2,0,0,0,0.0,0.0,0.0,0,0,14,18,77.8,4,10,9,0,0
+Rodrigo Bentancur\Rodrigo-Bentancur,30,uy URU,DM,23-172,82,0,0,0,0,3,1,0,0,73,12,4,1,2,0.1,0.1,0.0,1,0,54,64,84.4,258,53,84,2,2
+Adrien Rabiot\Adrien-Rabiot,25,fr FRA,DM,25-235,8,0,0,0,0,0,0,0,0,8,2,0,1,0,0.0,0.0,0.0,0,0,8,8,100.0,16,6,34,0,0
+Alex Sandro\Alex-Sandro,12,br BRA,LB,29-303,90,0,0,0,0,1,0,0,0,110,18,4,3,5,0.0,0.0,0.0,2,0,85,97,87.6,335,76,192,3,3
+Matthijs de Ligt\Matthijs-de-Ligt,4,nl NED,CB,21-104,90,0,0,0,0,0,0,0,0,110,9,1,0,3,0.0,0.0,0.0,0,0,96,102,94.1,530,80,262,0,0
+Danilo\Danilo,13,br BRA,CB,29-132,90,0,0,0,0,1,1,1,0,114,3,0,1,0,0.0,0.0,0.0,2,1,98,108,90.7,643,83,233,0,0
+Juan Cuadrado\Juan-Cuadrado,16,co COL,RB,32-182,90,0,2,0,0,1,0,0,0,110,10,4,1,2,0.1,0.1,0.3,10,2,79,97,81.4,409,80,187,3,4
+Wojciech Szczęsny\Wojciech-Szczesny,1,pl POL,GK,30-220,90,0,0,0,0,0,0,0,0,20,0,0,0,0,0.0,0.0,0.0,0,0,20,20,100.0,257,10,19,0,0
+16 Players,,,,,990,2,2,0,0,19,6,2,0,878,126,16,9,18,1.1,1.1,0.9,30,4,667,774,86.2,3297,633,1579,18,26
